@@ -1,6 +1,9 @@
 # Modelagem do Programa — Mandelbrot Paralelo
 
-## Integrantes: Cícero Calsing, Clara Burghardt, Patrícia Nagel 
+## Integrantes: 
+- Cícero Calsing
+- Clara Burghardt
+- Patrícia Nagel
 
 ## Visão Geral da Arquitetura
 
